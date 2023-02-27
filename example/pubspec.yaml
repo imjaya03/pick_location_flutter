@@ -11,7 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  pick_location: ../pick_location
+  pick_location:
+    path: ../
 
 dev_dependencies:
   flutter_test:
