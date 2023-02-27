@@ -1,5 +1,5 @@
 name: pick_location
-description: A new Flutter package project.
+description: Package that provides Place search and Location picker for flutter app.
 version: 0.0.1
 homepage: https://github.com/imjaya03/pick_location_flutter
 
